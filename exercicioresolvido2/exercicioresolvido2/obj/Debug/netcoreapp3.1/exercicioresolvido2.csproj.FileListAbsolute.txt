@@ -1,0 +1,13 @@
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\obj\Debug\netcoreapp3.1\exercicioresolvido2.csprojAssemblyReference.cache
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\obj\Debug\netcoreapp3.1\exercicioresolvido2.AssemblyInfoInputs.cache
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\obj\Debug\netcoreapp3.1\exercicioresolvido2.AssemblyInfo.cs
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\obj\Debug\netcoreapp3.1\exercicioresolvido2.csproj.CoreCompileInputs.cache
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\bin\Debug\netcoreapp3.1\exercicioresolvido2.exe
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\bin\Debug\netcoreapp3.1\exercicioresolvido2.deps.json
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\bin\Debug\netcoreapp3.1\exercicioresolvido2.runtimeconfig.json
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\bin\Debug\netcoreapp3.1\exercicioresolvido2.runtimeconfig.dev.json
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\bin\Debug\netcoreapp3.1\exercicioresolvido2.dll
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\bin\Debug\netcoreapp3.1\exercicioresolvido2.pdb
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\obj\Debug\netcoreapp3.1\exercicioresolvido2.dll
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\obj\Debug\netcoreapp3.1\exercicioresolvido2.pdb
+C:\revisandomatrizes\exercicioresolvido2\exercicioresolvido2\obj\Debug\netcoreapp3.1\exercicioresolvido2.genruntimeconfig.cache

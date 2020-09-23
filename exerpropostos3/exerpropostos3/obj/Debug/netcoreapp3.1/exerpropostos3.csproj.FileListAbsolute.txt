@@ -1,0 +1,13 @@
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\bin\Debug\netcoreapp3.1\exerpropostos3.exe
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\bin\Debug\netcoreapp3.1\exerpropostos3.deps.json
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\bin\Debug\netcoreapp3.1\exerpropostos3.runtimeconfig.json
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\bin\Debug\netcoreapp3.1\exerpropostos3.runtimeconfig.dev.json
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\bin\Debug\netcoreapp3.1\exerpropostos3.dll
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\bin\Debug\netcoreapp3.1\exerpropostos3.pdb
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\obj\Debug\netcoreapp3.1\exerpropostos3.csprojAssemblyReference.cache
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\obj\Debug\netcoreapp3.1\exerpropostos3.AssemblyInfoInputs.cache
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\obj\Debug\netcoreapp3.1\exerpropostos3.AssemblyInfo.cs
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\obj\Debug\netcoreapp3.1\exerpropostos3.csproj.CoreCompileInputs.cache
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\obj\Debug\netcoreapp3.1\exerpropostos3.dll
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\obj\Debug\netcoreapp3.1\exerpropostos3.pdb
+C:\revisandomatrizes\exerpropostos3\exerpropostos3\obj\Debug\netcoreapp3.1\exerpropostos3.genruntimeconfig.cache

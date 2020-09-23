@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Huj2hIb6f8w6EmUGNY1KzyJrLTR11oWkgSK73llI4MGxiyMwQlXM/dOqfGlj7eU5MPfZfguVKlQb81dBGIdiA==",
+  "success": true,
+  "projectFilePath": "C:\\revisandomatrizes\\exerpropostos7\\exerpropostos7\\exerpropostos7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
