@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\revisandomatrizes\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj": {}
+    "C:\\revisandogit\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj": {}
   },
   "projects": {
-    "C:\\revisandomatrizes\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj": {
+    "C:\\revisandogit\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\revisandomatrizes\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj",
+        "projectUniqueName": "C:\\revisandogit\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj",
         "projectName": "exerpropostos1",
-        "projectPath": "C:\\revisandomatrizes\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj",
+        "projectPath": "C:\\revisandogit\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\revisandomatrizes\\exerpropostos1\\exerpropostos1\\obj\\",
+        "outputPath": "C:\\revisandogit\\exerpropostos1\\exerpropostos1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

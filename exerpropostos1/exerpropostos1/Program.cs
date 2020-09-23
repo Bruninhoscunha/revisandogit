@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace exerpropostos1
+namespace valoresnegativos
 {
     class Program
     {

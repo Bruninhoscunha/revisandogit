@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Plo3Znsvq5yvukQPbgYcZxGmj+HnRrz9ubLr5V7mXCiwg9KlzQrE6cToNo0gqF/DhzsDAHFAVuNEfQGZCjT6Ww==",
+  "dgSpecHash": "JQUO364eXcCzebXRdGiDrK9GKhd0QS13+IHfNGKPQ3PV9A0BGAVG8bFPgRndk/tp7fCjiNZ6NlkMSrh3c1a5Sw==",
   "success": true,
-  "projectFilePath": "C:\\revisandomatrizes\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj",
+  "projectFilePath": "C:\\revisandogit\\exerpropostos1\\exerpropostos1\\exerpropostos1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
